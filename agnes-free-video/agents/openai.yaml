@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agnes Free Video"
+  short_description: "Free Agnes video API helper"
+  default_prompt: "Use $agnes-free-video to create or check a video task with the free Agnes video API."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agnes Free Image"
+  short_description: "Free Agnes image API helper"
+  default_prompt: "Use $agnes-free-image to generate an image with the free Agnes image API."

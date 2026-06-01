@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agnes Free Text"
+  short_description: "Free Agnes text API helper"
+  default_prompt: "Use $agnes-free-text to call the free Agnes text API for a concise answer."
